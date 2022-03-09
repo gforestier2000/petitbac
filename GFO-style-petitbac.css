@@ -1,0 +1,24 @@
+/* 
+
+{} : accolades
+[] : crochets
+() : parenthèses 
+
+*/
+
+/* https://developer.mozilla.org/fr/docs/Web/CSS */
+
+h1{
+    font-size: 88px;
+}
+body{
+    background-color: aqua;
+}
+
+table{
+    background-color: blueviolet;
+}
+th{
+    background-color: brown;
+    color: whitesmoke;
+}
